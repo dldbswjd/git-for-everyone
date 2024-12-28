@@ -1,1 +1,4 @@
-chapter zero...
+chapter zero
+hello i'm lee
+byebye
+see you next time
